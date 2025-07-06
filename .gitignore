@@ -6,3 +6,7 @@ node_modules/
 
 # Ignore compiled CSS
 src/output.CSS
+
+# Ignore System files
+*.log
+.DS_Store
