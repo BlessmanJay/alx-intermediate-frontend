@@ -1,0 +1,8 @@
+# ignore Tailwind CLI binary
+tailwindcss.exe
+
+# Ignore dependencies
+node_modules/
+
+# Ignore compiled CSS
+src/output.CSS
