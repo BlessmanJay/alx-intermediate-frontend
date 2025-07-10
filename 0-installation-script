@@ -1,0 +1,5 @@
+# Initialized npm project
+npm init -y
+
+# Installed SASS version 3.7.4
+npm install sass -v 3.7.4
